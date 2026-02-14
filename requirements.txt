@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langgraph
+langchain
+pydantic
+polars
+duckdb
+streamlit
+pytest
